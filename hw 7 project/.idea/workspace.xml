@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd40967e-2cf2-49af-84e6-1fb9c1aaf8ba" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-31" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Controllers/ClaimsController.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-161" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/App_Start/BundleConfig.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1156" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/LICENSE">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet.sln">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw 7 project/ReadmeFiles/UserClaims.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>temirbekbalabek</find>
+      <find>temirbek</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Lenovo\Downloads\homework 7\hw 7 project\hw 7 project\AppModelv2-WebApp-OpenIDConnect-DotNet</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hw 7 project/.vs/AppModelv2-WebApp-OpenIDConnect-DotNet/xs/project-cache/AppModelv2-WebApp-OpenIDConnect-DotNet-Debug.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1110" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw 7 project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw 7 project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw 7 project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw 7 project" type="462c0819:PsiDirectoryNode" />
+              <item name="hw 7 project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw 7 project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw 7 project" type="462c0819:PsiDirectoryNode" />
+              <item name="hw 7 project" type="462c0819:PsiDirectoryNode" />
+              <item name="ReadmeFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd40967e-2cf2-49af-84e6-1fb9c1aaf8ba" name="Default Changelist" comment="" />
+      <created>1616951267770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616951267770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/packages.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Web.Debug.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Content/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Content/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Content/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppCreationScripts/Configure.ps1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/.vs/AppModelv2-WebApp-OpenIDConnect-DotNet/xs/project-cache/AppModelv2-WebApp-OpenIDConnect-DotNet-Debug.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26720" selection-start-column="26720" selection-end-column="26720" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/.vs/AppModelv2-WebApp-OpenIDConnect-DotNet/xs/UserPrefs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/.vscode/launch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppCreationScripts/AppCreationScripts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2621" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppCreationScripts/apps.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppCreationScripts/Cleanup.ps1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-804" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppCreationScripts/sample.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/App_Start/RouteConfig.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Web.Release.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Global.asax">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Views/Claims/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Controllers/ClaimsController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/obj/Debug/AppModelv2-WebApp-OpenIDConnect-DotNet.csproj.FileListAbsolute.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet/App_Start/BundleConfig.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1156" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/AppModelv2-WebApp-OpenIDConnect-DotNet.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw 7 project/ReadmeFiles/UserClaims.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
